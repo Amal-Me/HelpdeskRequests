@@ -19,6 +19,8 @@ Il démontre la capacité à :
 
 ## 🧾 Schéma relationnel
 
+![alt text](image.png)
+
 ### Tables principales
 
 - `Utilisateurs` : nom, email, service
@@ -45,14 +47,7 @@ Des tickets ont été insérés avec des cas de figure variés :
 - Tickets par service utilisateur
 
 
-HelpDeskDB/
-├── README.md
-├── sql/
-│   ├── schema.sql          # création des tables
-│   ├── seed_data.sql       # insertion des données fictives
-│   └── req_support.sql     # requêtes d'analyse métier
-├── assets/
-│   └── schema.png          # schéma relationnel (image)
+
 
 
 
